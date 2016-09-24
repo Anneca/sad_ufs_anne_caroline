@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rows>
+ <Row><cv_descricao>Amparo de S&#xfffd;o Francisco</cv_descricao> <cv_capital>N&#xfffd;o</cv_capital> <cv_nome>Hospital Teste</cv_nome> <cv_site>http&#x3a;&#x2f;&#x2f;www.linkquebrado.com&#x2f;</cv_site> <cv_tipo_organizacao>Privado</cv_tipo_organizacao> </Row>
+ <Row><cv_descricao>Aracaju</cv_descricao> <cv_capital>Sim</cv_capital> <cv_nome>Hospital Primavera</cv_nome> <cv_site>http&#x3a;&#x2f;&#x2f;www.redeprimavera.com.br&#x2f;hospital&#x2f;</cv_site> <cv_tipo_organizacao>Privado</cv_tipo_organizacao> </Row>
+ <Row><cv_descricao>Bras&#xfffd;lia</cv_descricao> <cv_capital>Sim</cv_capital> <cv_nome>PACINI Hospital Oftalmol&#xfffd;gico</cv_nome> <cv_site>http&#x3a;&#x2f;&#x2f;www.hospitalpacini.com.br&#x2f;</cv_site> <cv_tipo_organizacao>Privado</cv_tipo_organizacao> </Row>
+</Rows>

@@ -1,0 +1,4 @@
+cv_descricao;cv_capital;cv_nome;cv_site;cv_tipo_organizacao
+Amparo de S�o Francisco;N�o;Hospital Teste;http://www.linkquebrado.com/;Privado
+Aracaju;Sim;Hospital Primavera;http://www.redeprimavera.com.br/hospital/;Privado
+Bras�lia;Sim;PACINI Hospital Oftalmol�gico;http://www.hospitalpacini.com.br/;Privado
